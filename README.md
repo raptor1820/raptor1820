@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Ritwic's GitHub stats](https://github-readme-stats.vercel.app/api?username=raptor1820&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raptor1820&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **raptor1820/raptor1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
